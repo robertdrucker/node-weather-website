@@ -1,4 +1,3 @@
-console.log('Client side javascript file is loaded!');
 // MY INTERPRETATION
 // Here, fetch issues an HTTP request via the browser to the express server.
 // Via the express routing mechanism, the geocode function is called with 
